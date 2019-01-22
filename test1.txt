@@ -1,12 +1,1 @@
- Volume in drive E is New Volume
- Volume Serial Number is FAC8-F1E2
-
- Directory of E:\Program Files\Git\bin
-
-20-01-2019  14:43    <DIR>          .
-20-01-2019  14:43    <DIR>          ..
-15-12-2018  09:52            40,736 bash.exe
-15-12-2018  09:52            40,216 git.exe
-15-12-2018  09:52            40,736 sh.exe
-               3 File(s)        121,688 bytes
-               2 Dir(s)  389,161,627,648 bytes free
+change 1
